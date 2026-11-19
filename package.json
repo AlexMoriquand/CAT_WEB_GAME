@@ -1,0 +1,18 @@
+{
+  "name": "calico-kitten-3d",
+  "version": "1.0.0",
+  "description": "Un chaton 3D personnalisable : tricolore ou roux tigré et blanc.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve ."
+  },
+  "keywords": [
+    "webgl2",
+    "3d",
+    "fourrure",
+    "sdf",
+    "javascript"
+  ],
+  "license": "MIT"
+}
